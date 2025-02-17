@@ -1,12 +1,12 @@
 // Your code here...
 #include<stdio.h>
 int main(){
-    int fristnumber;
-    int secondnumber;
-    scanf("%d",&frist number);
-    scanf("%d",&secondnumber);
+    int x;
+    int y;
+    scanf("%d",&x);
+    scanf("%d",&y);
     int sum;
-    sum = fristnumber + secondnumber;
+    sum = x + y;
     printf("sum: %d",sum )
     return 0;
 }
