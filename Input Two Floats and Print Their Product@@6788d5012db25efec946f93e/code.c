@@ -3,6 +3,7 @@
 main(){
     float x,y;
     scanf("%f",&x,&y);
-    printf("Product: %f",x * y);
+    z = x*y;
+    printf("Product: %f",z);
     return 0;
 }
