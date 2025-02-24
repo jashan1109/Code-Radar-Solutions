@@ -6,4 +6,5 @@ int main(){
     scanf("%s",x);
     scanf("%s",y);
     printf("You entered: %s", a + y);
+    return 0;
 }
