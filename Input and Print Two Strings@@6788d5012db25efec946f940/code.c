@@ -5,5 +5,5 @@ int main(){
     char y;
     scanf("%s",x);
     scanf("%s",y);
-    printf("You entered: %s", a and y);
+    printf("You entered: %s", a + y);
 }
