@@ -1,10 +1,11 @@
 // Your code here...
 #include<stdio.h>
 int main(){
-    char x;
-    char y;
-    scanf("%s",x);
-    scanf("%s",y);
-    printf("You entered: %s", a + y);
+    char ;
+    //printf("You entered: ");
+    scanf("%d",&char);
+
+    printf("You entered: ",char);
+
     return 0;
 }
