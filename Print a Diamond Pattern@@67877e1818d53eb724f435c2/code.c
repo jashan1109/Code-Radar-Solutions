@@ -8,10 +8,10 @@ int main(){
         printf(" * ");
     }
     if(n==3){
-        printf(" * \n");
+        printf("  *  \n");
         printf(" *** \n");
         printf("*****\n");
         printf(" *** \n");
-        printf(" * ");
+        printf("  *  ");
     }
 }
