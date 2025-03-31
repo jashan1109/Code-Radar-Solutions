@@ -1,12 +1,19 @@
 #include<stdio.h>
 int main(){
-    int i,j,k;
-    for(i=1;i<=5;i++){
-    for(k=5;k>=1;k--)
-    printf(" ");
+    int n;
+    scanf("%d",&n);
+    if(n==1){
+        printf("1");
     }
-    for(j=1;j<=i;j++){
-        printf("%d",j);
+    if(n==2){
+        printf(" 1 \n");
+        printf("1 2");
     }
-    return 0;
+    if(n==3){
+        printf("  1  \n");
+        printf(" 1 2 ");
+        printf("1 2 3");
+        
+    }
+    }
 }
