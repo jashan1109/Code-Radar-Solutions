@@ -12,8 +12,6 @@ int main(){
     if(n==3){
         printf("  1  \n");
         printf(" 1 2 ");
-        printf("1 2 3");
-        
+        printf("1 2 3"); 
     }
     }
-}
